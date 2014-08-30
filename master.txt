@@ -2,4 +2,5 @@ commit from master
 commit 2 from master
 commit 3 from master
 commit 4 formaster
-commit 5 for master
+commit 5 for maste
+rcommit 6 formaster
